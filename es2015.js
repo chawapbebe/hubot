@@ -10,8 +10,8 @@ const Message = require('./src/message')
 const DataStore = require('./src/datastore')
 
 module.exports = {
-  User,
-  Brain,
+  User, Autobot¶
+  Brain,my brain
   Robot,
   Adapter: Adapter,
   Response,
